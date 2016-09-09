@@ -1,16 +1,11 @@
 # Marginal Abatement Cost Curve Generator
 
-A simple script to draw marginal abatement cost curves
-
-Based on the excellent [d3](http://d3js.org) visualisation library.
-
-&copy; 2015 Tom Counsell http://tom.counsell.org
+This is a fork of d3.js Marginal Abatement Cost Curves (MACC) graph, originally created by Tom Counsell (http://tom.counsell.org). This version aims to make the graph responsive, load json data and display improved tooltips. 
 
 ## Hacking
 
-Authoritative copy at http://github.com/tamc/macc
+Original version at http://github.com/tamc/macc
 
-Please report issues there.
 
 ## License
 
